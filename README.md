@@ -1,1 +1,5 @@
 # HELLO-108
+
+My first repository on Github
+
+I love :coffee: :pizza:, and :dancer:.
